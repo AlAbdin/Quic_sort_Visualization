@@ -1,6 +1,6 @@
 # ******************************************************************************************
 # File: quickSort.py
-# Programmer: Alaa Abdin, Darryn Wong
+# Programmer: Alaa Abdin
 # Date: 11/29/2020
 # Description: Visualization of quicksort algorithm.
 # ******************************************************************************************
